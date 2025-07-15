@@ -1,0 +1,14 @@
+body {
+      background-color: #f1f1f1;
+    }
+    .sidebar {
+      background-color: #f2e6fb;
+      min-height: 100vh;
+    }
+    .btn-purple {
+      background-color: #6f00ff;
+      color: white;
+    }
+    .btn-purple:hover {
+      background-color: #5c00d2;
+    }

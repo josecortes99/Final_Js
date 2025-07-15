@@ -1,0 +1,13 @@
+{
+  "name": "mi-proyecto",
+  "version": "1.0.0",
+  "description": "Mi proyecto SPA para gestión de eventos",
+  "main": "main.js",
+  "scripts": {
+    "start": "live-server",
+    "dev": "npx live-server"
+  },
+  "author": "Tu Nombre",
+  "license": "MIT",
+  "dependencies": {}
+}

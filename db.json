@@ -1,0 +1,93 @@
+{
+  "users": [
+    {
+      "name": "Admin",
+      "email": "admin@admin.com",
+      "password": 1234,
+      "confirmPassword": 1234,
+      "role": "admin"
+    },
+    {
+      "id": "1acb",
+      "name": "monica escobar",
+      "email": "monica@co.com",
+      "password": "1234",
+      "confirmPassword": "1234",
+      "role": "visitor"
+    },
+    {
+      "id": "1603",
+      "name": "andres",
+      "email": "andres@c.com",
+      "password": "1234",
+      "confirmPassword": "1234",
+      "role": "visitor"
+    },
+    {
+      "id": "499b",
+      "name": "alberto",
+      "email": "a@a.com",
+      "password": "1234",
+      "confirmPassword": "1234",
+      "role": "visitor"
+    },
+    {
+      "id": "1fcb",
+      "name": "alberto",
+      "email": "a@a.com",
+      "password": "1234",
+      "confirmPassword": "1234",
+      "role": "visitor"
+    },
+    {
+      "id": "4004",
+      "name": "arbey",
+      "email": "jose@gmail.com",
+      "password": "1234",
+      "confirmPassword": "1234",
+      "role": "visitor"
+    },
+    {
+      "id": "4c1f",
+      "name": "vale",
+      "email": "admin@admin.com",
+      "password": "1234",
+      "confirmPassword": "1234",
+      "role": "visitor"
+    },
+    {
+      "id": "31c7",
+      "name": "antonia",
+      "email": "a@a.com",
+      "password": "1234",
+      "confirmPassword": "1234",
+      "role": "visitor"
+    }
+  ],
+  "events": [
+    {
+      "name": "admin",
+      "description": "west",
+      "capacity": "2",
+      "date": "2025-07-12",
+      "id": "4981"
+    },
+    {
+      "id": "6afe",
+      "name": "jose miguel cortes escobar",
+      "description": "none",
+      "capacity": "3",
+      "date": "2025-07-15"
+    }
+  ],
+  "enrollments": [
+    {
+      "id": "39d4",
+      "courseId": "4981"
+    },
+    {
+      "id": "4d02",
+      "courseId": "c375"
+    }
+  ]
+}
